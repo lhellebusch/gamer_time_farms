@@ -486,7 +486,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 21.5, y: -7.8}
-  m_SizeDelta: {x: 156.4583, y: 46.11639}
+  m_SizeDelta: {x: 156, y: 46}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1690211657
 MonoBehaviour:
@@ -763,7 +763,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 7.75, y: -7.8}
-  m_SizeDelta: {x: 156.45828, y: 46.116394}
+  m_SizeDelta: {x: 156, y: 46}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2140292790
 MonoBehaviour:
@@ -793,10 +793,10 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 603feda3b175d9f4492e7a99240e2b1d,
+    m_HighlightedSprite: {fileID: 21300000, guid: 22f8c98812e45a346ac1d6c3c1948fd4,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: 603feda3b175d9f4492e7a99240e2b1d, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: 7e15fd4d3a4aae34cb3bb0f26a362579, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 22f8c98812e45a346ac1d6c3c1948fd4, type: 3}
+    m_SelectedSprite: {fileID: 21300000, guid: f47db872aa2de5c4b8ab41dc9a8de0c0, type: 3}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -808,7 +808,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2140292791}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 276773239}
+        m_MethodName: start
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2140292791
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -828,7 +839,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7e15fd4d3a4aae34cb3bb0f26a362579, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f47db872aa2de5c4b8ab41dc9a8de0c0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

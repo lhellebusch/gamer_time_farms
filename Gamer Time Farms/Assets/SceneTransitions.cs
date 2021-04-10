@@ -9,6 +9,10 @@ public class SceneTransitions : MonoBehaviour
       SceneManager.LoadScene(0);
     }
 
+    public void start(){
+      SceneManager.LoadScene(1);
+    }
+    
     public void quitGame(){
       Application.Quit();
     }
