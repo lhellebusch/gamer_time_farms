@@ -1,0 +1,30 @@
+1 Miranda: Hello, my name is Miranda Sauer and I focused on the Graphics of Gamer Time Farms.
+
+2 Luke: Hello, my name is Luke Hellebusch and I worked on Unity and code for Gamer Time Farms.
+
+3 Miranda: Gamer Time Farms is our quick farming simulator, with a twist. 
+
+4 Luke: Instead of normal plants, Gamer Time Farms features the first USB PCeeds. 
+Take care of the farm to discover the legendary RGB PCeed!
+
+5 Miranda: Here is the title screen of Gamer Time Farms. There is a Start button, Quit button, and Tutorial button. 
+Jo Miner, the farm tender, will show you around the farm.
+
+*Tutorial Plays*
+
+6 Luke: Welcome back to the Title Screen. Let's walk through the game.
+
+7 Miranda: Here is the main farm land. You can find the inventory, bitcoin balance, crop field, and home here.
+Let's go inside the house.
+
+8 Luke: In the house you can find the computer that allows access to the PCeed market. Let's check it out.
+
+9 Miranda: Here you can see four of the 8 PCeeds. If you click on the arrow, you gain access to the last four PCeeds.
+Clicking on the Red X exits the computer. 
+
+10 Luke: At the end of the game you unlock the secret room that contains the Legendary RGB PCeed. Clicking on it returns
+you to the farm. 
+
+11 Miranda: Here you can see the lengendary PCeed planted and Jo Miner is here to congratulate the farmer.
+
+12 Luke: That's our game. We hope you enjoy it as much as we enjoyed creating it!
