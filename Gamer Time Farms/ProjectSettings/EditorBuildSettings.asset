@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Farm.unity
     guid: a768ff1e698eecf4fb5a1cab276615c4
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 56551d5f1f2afaa47b36a1b2150ad45f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 2dba3f9fb1825d844821bc3f4d59fbde
+  - enabled: 1
+    path: Assets/Scenes/SecretRoom.unity
+    guid: 1bf13fa02a2e446438f042b5ef35e87f
   m_configObjects: {}

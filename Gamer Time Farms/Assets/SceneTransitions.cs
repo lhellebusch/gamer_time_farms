@@ -12,7 +12,19 @@ public class SceneTransitions : MonoBehaviour
     public void start(){
       SceneManager.LoadScene(1);
     }
-    
+
+    public void house(){
+      SceneManager.LoadScene(2);
+    }
+
+    public void tutorial(){
+      SceneManager.LoadScene(3);
+    }
+
+    public void secret(){
+      SceneManager.LoadScene(4);
+    }
+
     public void quitGame(){
       Application.Quit();
     }
